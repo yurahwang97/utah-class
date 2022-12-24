@@ -1,5 +1,5 @@
 # utah-class
-coursework assignments gatherings
+Coursework assignments taken from University of Utah
 
 ## cs6230 Parallel programming ##
 
